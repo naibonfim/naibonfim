@@ -3,7 +3,7 @@
 ## Who am I? 
 
 * 👩‍💻 Competitor in robotics tournaments 🥰.
-* 📊 Technical director at junior sevenspeed.
+* 📊 Technical director at junior company sevenspeed.
 * 📚 Artificial Intelligence Student.
 
 ## Skills 👩‍💻
