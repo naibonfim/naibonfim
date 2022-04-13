@@ -4,7 +4,8 @@
 
 * 👩‍💻 Competitor in robotics tournaments 🥰.
 * 📊 Technical director at junior company sevenspeed.(2020/21)
-* 📚 Artificial Intelligence Student.
+* 📚 Artificial Intelligence Student. 
+* Ciência da Computação 
 
 ## Skills 👩‍💻
 
